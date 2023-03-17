@@ -1,0 +1,7 @@
+red    : 5v
+orange : clock
+green  : latch
+white  : data1
+yellow : data2
+blue   : io
+black  : ground 
